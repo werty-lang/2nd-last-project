@@ -1,0 +1,33 @@
+
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+
+body{
+    background-size: cover;
+  
+    background-position:center ;
+}
+canvas{
+    box-shadow: 10px 10px 10px grey;
+    border-radius: 10px;
+}
+
+h3{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+  color:black;
+  background-color: cadetblue;
+}
+h2{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+  color:black;
+  
+}
+.button_back{
+    background-color: black;
+    color: orange;
+    
+}
